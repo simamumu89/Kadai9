@@ -1,5 +1,6 @@
-package com.shimamumu.information;
+package com.shimamumu.information.mapper;
 
+import com.shimamumu.information.entity.Information;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 
