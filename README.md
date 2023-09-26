@@ -5,16 +5,24 @@ curl --location 'http://localhost:8080/informations'
 ## 動作確認
 
 DBからのGET
-![3CBC385A-BC60-44E0-886B-47384A037106_1_105_c.jpeg](..%2F..%2FPictures%2F%E5%86%99%E7%9C%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.photoslibrary%2Fresources%2Fderivatives%2F3%2F3CBC385A-BC60-44E0-886B-47384A037106_1_105_c.jpeg)
+![2023-09-26 9 44のイメージ](https://github.com/simamumu89/Kadai9/assets/142807674/e35604db-7ae1-4cd7-af23-e980eed015ee)
+
+
 
 MySQL からのGET
-![E8A82AC1-8A45-4164-A5FC-699090E9E91D_1_105_c.jpeg](..%2F..%2FPictures%2F%E5%86%99%E7%9C%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.photoslibrary%2Fresources%2Fderivatives%2FE%2FE8A82AC1-8A45-4164-A5FC-699090E9E91D_1_105_c.jpeg)
+![2023-09-26 13 11のイメージ](https://github.com/simamumu89/Kadai9/assets/142807674/a0e986a9-60ef-4891-990e-b03dfb1f5477)
+
 
 MySQLのデータベース
-![5CE22D99-6C8D-4C8A-B231-DC530038E0F2.jpeg](..%2F..%2FPictures%2F%E5%86%99%E7%9C%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.photoslibrary%2Foriginals%2F5%2F5CE22D99-6C8D-4C8A-B231-DC530038E0F2.jpeg)
+
+![2023-09-26 12 51のイメージ](https://github.com/simamumu89/Kadai9/assets/142807674/e3f7622c-dec4-4197-b9a9-03eae8966114)
+
 
 MySQLのテーブル
-![A1D5E8FE-00AE-4B3F-A008-E9112A151D6A.jpeg](..%2F..%2FPictures%2F%E5%86%99%E7%9C%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.photoslibrary%2Foriginals%2FA%2FA1D5E8FE-00AE-4B3F-A008-E9112A151D6A.jpeg)
+
+![2023-09-26 12 53のイメージ](https://github.com/simamumu89/Kadai9/assets/142807674/e9b8ef53-0341-4d8e-9066-a8587eaea2bd)
+
 
 MySQLへのへのセレクト
-![7C15802A-C69C-4428-BA3F-C0AF84496358_1_105_c.jpeg](..%2F..%2FPictures%2F%E5%86%99%E7%9C%9F%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA.photoslibrary%2Fresources%2Fderivatives%2F7%2F7C15802A-C69C-4428-BA3F-C0AF84496358_1_105_c.jpeg)
+
+![2023-09-26 13 08のイメージ](https://github.com/simamumu89/Kadai9/assets/142807674/35eeae28-a9cc-4a55-8793-55d5e1747d09)
